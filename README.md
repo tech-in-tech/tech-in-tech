@@ -1,7 +1,11 @@
 
-preview
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&center=true&vCenter=true&width=330&height=30&lines=Hi,++I'm+Anubhav+Sharma)](https://git.io/typing-svg)<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="32px" alt="hi">
-<h3 align="center">A passionate MERN developer from India</h3>
+
+<div align = "center">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&center=true&vCenter=true&width=330&height=30&lines=Hi,++I'm+Ashish+Misal)](https://git.io/typing-svg)<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="32px" alt="hi">
+  
+  <img src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" >
+</div><h3 align="center">A passionate MERN developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tech-in-tech&label=Profile%20views&color=0e75b6&style=flat" alt="tech-in-tech" /> </p>
 
